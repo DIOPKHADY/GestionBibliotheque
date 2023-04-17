@@ -62,6 +62,10 @@ public class Utilisateurs implements Serializable {
         this.role = role;
     }
 
+    public Utilisateurs(String nomUtilisateur, String motDePasse, String role) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     public Integer getId() {
         return id;
     }

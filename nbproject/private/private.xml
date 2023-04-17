@@ -3,7 +3,36 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/GestionBibliotheque/src/gestionbibliotheque/GestionBibliotheque.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/dao/ILivre.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/ClientService.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/UtilisateurServices.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/LivreService.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/InscriptionService.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/Reservationform.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/System/Interfacebiblio.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/dao/IReservation.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/AddClient.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Reservation.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/SuperutilisateurServices.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Inscription.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/ReservationService.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/Empruntform.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/utils/UtilsFonction.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/services/EmpruntService.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Client.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/Interfacebiblio.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Livre.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/utils/EntityManagerUtil.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Emprunt.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Utilisateurs.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/FrameSuperUser.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Auteur.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/Livreform.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/dao/IEmprunt.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/AddUtilisateur.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/windows/Auteurform.java</file>
+            <file>file:/C:/Users/Momar%20Ndaw%20THIAM/Documents/NetBeansProjects/GestionBibliotheque/GestionBibliotheque/src/models/Superutilisateur.java</file>
         </group>
     </open-files>
 </project-private>

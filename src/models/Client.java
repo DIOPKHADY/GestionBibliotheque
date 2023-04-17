@@ -95,6 +95,10 @@ public class Client implements Serializable {
         this.isActive = isActive;
     }
 
+    public Client(String nom, String prenom, String adresse, String telephone, String email, Date dateInscription) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     public Integer getId() {
         return id;
     }
